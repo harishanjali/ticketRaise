@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: linear-gradient(to right,lightgreen,lightblue);
+}
+i{
+    cursor: pointer;
+}
+ul{
+    list-style: none;
+}
+.issues-container p{
+    font-size: 17px;
+}
